@@ -85,7 +85,7 @@ To run the notebook, install:
 ```bash
 pip install numpy scipy matplotlib
 
-## 👥 Auteurs
+### 👥 Authors
 
 - Frank Dzikouk 
 - Saipeng Zhou
