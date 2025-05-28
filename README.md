@@ -51,9 +51,6 @@ The Jupyter Notebook `Coprime-Prime-Gap-Simulation.ipynb` contains:
 - **Theoretical Proof:**
   - Markdown cells detailing the proof of the coprime probability.
   - Use of inclusion-exclusion and Möbius function to compute ![P_n](https://latex.codecogs.com/png.latex?\mathcal{P}_n).
-  - A lemma proving:
-
-    ![Mobius Lemma](https://latex.codecogs.com/png.latex?\sum_{n=1}^\infty%20\frac{\mu(n)}{n^s}%20=%20\frac{1}{\zeta(s)}%20\quad\text{for%20}s%20>%201)
 
 - **Simulation Code:**
   - Python code using `numpy`, `scipy`, `matplotlib`.
