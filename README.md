@@ -87,5 +87,5 @@ pip install numpy scipy matplotlib
 
 ## 👥 Auteurs
 
-- **Frank Dzikouk** 
-- **Saipeng Zhou** 
+- Frank Dzikouk 
+- Saipeng Zhou
